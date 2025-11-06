@@ -4,7 +4,7 @@
 Argentina’s beloved no-bake icebox cake: layers of thin chocolate biscuits briefly dipped in cold, unsweetened espresso, spread with a glossy 1:1 blend of dulce de leche repostero and cream cheese, then capped with a thin dark‑chocolate ganache. Built to chill overnight for tidy, cafe‑worthy slices and a clean, not‑too‑sweet finish.
 
 ## Tags
-tags: [dessert, latin-american, no-cook, make-ahead, party-food, chocolate, creamy, rich, vegetarian]
+tags: [dessert, latin-american, no-cook, make-ahead, party-food, chocolate, creamy, vegetarian]
 
 ## Yield & Timing
 - **Yield:** 9–12 squares (8×8-inch / 20×20 cm pan)
@@ -14,8 +14,6 @@ tags: [dessert, latin-american, no-cook, make-ahead, party-food, chocolate, crea
 - **Total:** ~25 minutes active + chill
 
 ## Grocery List
-### Produce
-- —
 ### Pantry
 - Chocolinas chocolate biscuits — 2 packs (8.8 oz / 250 g each) — you’ll use ~1½–2 packs
 - Instant espresso powder
@@ -27,10 +25,6 @@ tags: [dessert, latin-american, no-cook, make-ahead, party-food, chocolate, crea
 - Cream cheese (brick) — 16 oz (450 g)
 - Dulce de leche repostero/pastelero — 16 oz (≈450 g)
 - Heavy cream — 3 oz (90 ml) for ganache
-### Proteins
-- —
-### Spices & Oils
-- —
 
 ## Equipment & Tools
 - 8×8-inch (20×20 cm) square pan
@@ -45,12 +39,12 @@ tags: [dessert, latin-american, no-cook, make-ahead, party-food, chocolate, crea
 ## Ingredients
 - Instant espresso powder — **1 to 1¼ tsp**
 - Cold water — **¾ to 1 cup (180–240 ml)** (for dipping biscuits)
-- Cream cheese, softened — **16 oz (450 g)**
+- Cream cheese, softened — **16 oz (450 g)** **[pre-prep]**
 - Dulce de leche repostero — **16 oz (≈450 g)**
 - Vanilla extract — **1 tsp**
 - Kosher salt — **¼ tsp** (use **⅛ tsp** if Morton)
 - Chocolinas biscuits — **~16–22 per layer, 3–4 layers total** (~14–18 oz / 400–500 g overall)
-- Dark chocolate (70–75%) — **4 oz (115 g)** (ganache)
+- Dark chocolate (70–75%), finely chopped — **4 oz (115 g)** (ganache) **[pre-prep]**
 - Heavy cream — **3 oz (90 ml)** (ganache)
 - Cocoa powder or shaved dark chocolate (optional, to finish)
 

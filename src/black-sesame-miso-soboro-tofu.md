@@ -7,21 +7,13 @@ This soboro is a richer, more filling V3: creamy Chinese sesame paste (or tahini
 tags: [main, japanese, vegan, stir-fry, meal-prep, freezer-friendly, high-protein, tofu]
 
 ## Yield & Timing
-- Yield: about 12 servings (each about 1/2 cup soboro; designed for leftovers)
-- Active prep: 30 min
-- Inactive prep: 20 to 30 min pressing time
-- Cook: 18 to 22 min
-- Total: about 60 to 75 min
-- Make-ahead: Portion into 1/2-cup flat freezer bags or silicone cups; freeze up to 2 months. Reheat per the guide below; target 165 deg F.[7]
+- **Yield:** about 12 servings (about 1/2 cup each; designed for leftovers)
+- **Active Prep:** 30 minutes
+- **Hands-Off/Rest:** 20–30 minutes pressing time
+- **Cook:** 18–22 minutes
+- **Total:** about 60–75 minutes
 
-### Microwave Reheating Guide (from frozen; bowl loosely vented)
-Timings below are for a 1000 to 1100 W microwave. If yours is 700 to 800 W, add 30 to 45 sec per cycle. Stir between cycles; add 1 to 2 tsp water if thick; confirm steaming-hot throughout or 165 deg F.[7]
-
-| Portion size | Cycle 1 | Stir | Cycle 2 | Stir/check | Cycle 3 (if needed) |
-|---|---:|---|---:|---|---:|
-| 1/2 cup (about 120 g) | 2:00 high | yes | 0:45 to 1:00 high | center hot | +0:30 high |
-| 3/4 cup (about 180 g) | 2:15 high | yes | 1:00 to 1:15 high | check core | +0:30 to 0:45 high |
-| 1 cup (about 240 g) | 2:30 high | yes | 1:30 high | check core | +0:45 to 1:00 high |
+ 
 
 ## Grocery List
 (Items commonly needing HMart are detailed later under HMart Finder.)
@@ -46,17 +38,26 @@ Timings below are for a 1000 to 1100 W microwave. If yours is 700 to 800 W, add 
   - Chinese sesame paste (sub: tahini) [HMart]
   - Optional: MSG [HMart]
 
-- Dairy and Eggs
+- Dairy & Eggs
   - None
 
 - Proteins
   - Firm tofu (2 x 14 oz blocks)
   - Shelled edamame, frozen (1.5 to 2 cups total)
 
-- Spices and Oils
+- Spices & Oils
   - Avocado oil (or other neutral oil)
   - Toasted sesame oil (optional finish)
   - Toasted sesame seeds (optional)
+
+## Equipment & Tools
+- 12" nonstick skillet or wok; large surface area prevents crowding
+- Sheet pan (for fast cooling)
+- Mixing bowls; whisk; rubber spatula
+- Chef’s knife and cutting board
+- Measuring cups/spoons
+- Freezer-safe containers or silicone cups (1/2 cup portions)
+- Microwave-safe bowl for reheating
 
 ## Ingredients (in use order; U.S. units with metric in parentheses)
 - Firm tofu, 2 blocks 14 oz each (28 oz / 794 g), pressed 20 to 30 min [pre-prep]
@@ -83,6 +84,14 @@ Creamy Black-Sesame Miso tare (whisk smooth):
 Fold-in at the end:
 - Shelled edamame, 1.5 to 2 cups (150 to 300 g), thawed
 
+## Prep Gotchas & QA
+- Drive off moisture early: dry-cook mushrooms and dry out tofu so the sauce clings and the mix freezes/reheats without weeping.
+- Don’t crowd the pan; work in batches if needed so steam can escape.
+- Press tofu at least 20 minutes; surface should feel drier before crumbling.
+- Add cornstarch slurry after the tare simmers; cook until glossy and slightly thick.
+- Doubanjiang is salty; start low and adjust. Use dashi to boost umami without extra sodium.
+- Food safety: Reheat portions to 165°F/74°C (especially from frozen).[7]
+
 ## Detailed Instructions
 1) Press the tofu (20 to 30 min). Wrap each block in towels; set under a light weight. Crumble into pea-sized bits. Fine crumbles give classic soboro texture.[3]
 2) Dry-cook mushrooms (5 to 7 min). Large nonstick skillet, medium-high heat. Add shiitake with no oil; stir until they release liquid, then continue until the pan is nearly dry and mushrooms smell toasty. This concentrates flavor and stops watery thawing later.[5][6]
@@ -98,14 +107,43 @@ Fold-in at the end:
 
 Make-Ahead Map: Steps 1 to 8 cook once; Step 10 freeze up to 2 months; Step 11 reheat day-of. For food safety, reheat leftovers to 165 deg F.[7]
 
+## Allergy & Dietary Notes
+- **Contains:** soy (tofu, soy sauce, doubanjiang). **May contain:** wheat (many soy sauce and doubanjiang brands).
+- **Swaps:** gluten-free tamari; seek wheat-free doubanjiang or reduce and add chili paste; adjust soy/doubanjiang down and dashi up for lower sodium.
+- **Cross-contact:** Check labels if serving gluten-free; avoid shared fryers/utensils.
+
+## Scaling & Batch Size
+- Double batch: Use an extra-large skillet or cook mushrooms/tofu in batches to prevent steaming; increase simmer time slightly after combining.
+- Half batch: Same timings; watch sauce reduction (may thicken faster).
+
+## Make-Ahead, Storage & Reheat (Optional)
+- **Portion & Freeze:** Pack in 1/2‑cup portions; press out air; freeze up to 2 months.
+- **Fridge:** 3–4 days, tightly covered; reheat to 165°F.
+- **Microwave Reheating Guide (from frozen; bowl loosely vented):**
+  Timings below are for a 1000–1100 W microwave. If yours is 700–800 W, add 30–45 sec per cycle. Stir between cycles; add 1–2 tsp water if thick; confirm steaming‑hot throughout or 165°F.[7]
+
+  | Portion size | Cycle 1 | Stir | Cycle 2 | Stir/check | Cycle 3 (if needed) |
+  |---|---:|---|---:|---|---:|
+  | 1/2 cup (about 120 g) | 2:00 high | yes | 0:45–1:00 high | center hot | +0:30 high |
+  | 3/4 cup (about 180 g) | 2:15 high | yes | 1:00–1:15 high | check core | +0:30–0:45 high |
+  | 1 cup (about 240 g) | 2:30 high | yes | 1:30 high | check core | +0:45–1:00 high |
+
 ## Nutrition Snapshot (per serving)
 A reliable single-number estimate is not available. Reason: brand-to-brand variation in shio koji, doubanjiang, and dashi powders causes calculators to differ by more than 10 percent. Expect higher satiety than earlier versions thanks to sesame paste (fat for energy density) and extra edamame (protein plus fiber). Sodium depends most on your soy and doubanjiang brand and amount.[1][2][4]
 
-## Special Notes and Variations
-- Lower-sodium toggle: Use 3/4 tbsp soy plus 2 tbsp extra dashi; keep doubanjiang at 1 tsp; finish bowls with a squeeze of rice or black vinegar instead of more sauce.[1][4]
-- Gluten-free: Use certified gluten-free tamari; many doubanjiang brands contain wheat. Check labels.[4]
-- Texture tweak: Freezing and thawing tofu once before pressing yields a chewier, more absorbent crumb.[9]
-- Serve-with ideas: Hot rice, sliced scallions, toasted sesame seeds; cucumber ribbons or steamed snap peas.
+## Serving & Variations
+- Lower‑sodium toggle: Use 3/4 tbsp soy plus 2 tbsp extra dashi; keep doubanjiang at 1 tsp; finish bowls with a squeeze of rice or black vinegar instead of more sauce.[1][4]
+- Gluten‑free: Use certified gluten‑free tamari; many doubanjiang brands contain wheat. Check labels.[4]
+- Texture tweak: Freeze and thaw tofu once before pressing for chewier, more absorbent crumb.[9]
+- Serve with: hot rice, sliced scallions, toasted sesame seeds; cucumber ribbons or steamed snap peas.
+
+## Troubleshooting
+| Symptom | Likely Cause | Quick Fix |
+|---|---|---|
+| Watery or thin | Pan crowded; moisture not driven off; slurry undercooked | Cook mushrooms/tofu longer before saucing; simmer to reduce; cook slurry 60–90 sec |
+| Too salty/spicy | Too much soy/doubanjiang | Dilute with dashi or water; add splash of rice/black vinegar; balance with a pinch of sugar |
+| Gummy texture | Too much cornstarch or insufficient simmer after slurry | Add a splash of water/dashi and simmer to desired nappe |
+| Bland | Too little doubanjiang/dashi; under‑salted | Add a pinch of MSG or a bit more doubanjiang/soy; finish with vinegar for brightness |
 
 ## HMart Finder (specialty aisle guide)
 - Doubanjiang (Sichuan chili broad bean paste) - Chinese aisle, condiments. Look for Pixian or Sichuan labels. Salty and spicy; start small.[4]
