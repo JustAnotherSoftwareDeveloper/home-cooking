@@ -1,4 +1,4 @@
-.PHONY: all src test clean
+.PHONY: all src test runbooks clean
 
 # Default target
 all: src test
@@ -12,6 +12,11 @@ src:
 test:
 	@echo "Converting test/ recipes to PDF..."
 	@bash scripts/markdown_to_pdf.sh --input-dir test --output-dir output
+
+# Convert runbooks to PDF
+runbooks:
+	@echo "Converting runbooks/ to PDF..."
+	@bash scripts/markdown_to_pdf.sh --input-dir runbooks --output-dir output
 
 # Clean output directory
 clean:
