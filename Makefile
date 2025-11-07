@@ -1,7 +1,7 @@
 .PHONY: all src test runbooks clean
 
 # Default target
-all: src test
+all: src test runbooks
 
 # Convert source recipes to PDF
 src:
