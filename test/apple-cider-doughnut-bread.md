@@ -1,113 +1,135 @@
-# Apple-Cider–Doughnut Snack Cake (8×8, cinnamon-sugar)
+# Apple-Cider–Doughnut Snack Cake (8×8, cinnamon-sugar) — v3
 
 ## Overview
-All the orchard-doughnut vibes in a tidy square-pan cake: reduced apple cider in the batter; a buttery cinnamon–sugar finish that crackles like a doughnut.
+Orchard-donut flavor without frying: an 8×8 snack cake with reduced apple cider for punch, a **light cider soak** (half measure), and a buttery cinnamon-sugar crust. Tuned for even rise and a sturdy, non-crumbly slice.
 
 ## Yield & Timing
 - Yield: 16 squares (8×8 pan)  
-- Active: 20–25 min (includes cider reduction)  
-- Bake: 28–35 min at 350°F  
+- Active: 25–30 min (includes reduction)  
+- Bake: **35–42 min at 325°F**  
 - Cool & finish: ~20 min
 
 ## Grocery List (by aisle)
 **Produce & beverages**
-- Apple cider (not vinegar), 1½ cups
-- Optional: 1 small tart apple (e.g., Honeycrisp)
+- Apple cider (not vinegar), **2½ cups**
 
 **Baking & spices**
-- All-purpose flour
-- Granulated sugar
-- Light brown sugar
-- Baking powder
-- Baking soda
-- Kosher salt
-- Ground cinnamon
-- Ground nutmeg (pinch)
+- All-purpose flour  
+- Granulated sugar  
+- Light brown sugar  
+- Baking powder  
+- Baking soda  
+- Kosher salt  
+- Ground cinnamon  
+- Ground nutmeg (pinch, optional)
 
 **Oils & vinegars**
 - Neutral oil (avocado or canola)
 
 **Dairy & eggs**
-- Large eggs
-- Sour cream
+- Large eggs **+ 1 extra yolk**  
+- Sour cream  
 - Unsalted butter
 
-**Optional specialty**
-- Boiled cider (apple flavor concentrate)
+**Optional**
+- Pure maple syrup (to round acidity, if desired)
 
 ## Equipment
-8×8 metal baking pan, parchment sling, small saucepan, whisk, two bowls, rubber spatula, pastry brush (or spoon), wire rack, instant-read thermometer (optional).
+Light-colored **aluminum** 8×8 metal pan, parchment sling, small saucepan, whisk, two bowls, rubber spatula, pastry brush (or spoon), wire rack, instant-read thermometer (optional), **kitchen scale (recommended)**.
+
+---
 
 ## Ingredients (use-order)
 
 ### Cider reduction & finish
-- 1½ cups apple cider, reduced to ½ cup (see Step 1)  
+- **2½ cups apple cider**, reduced to **⅔ cup** (see Step 1 for exact timing/targets)  
 - 2 Tbsp unsalted butter, melted (for brushing)  
 - ¼ cup granulated sugar  
 - 1½ tsp ground cinnamon  
 - Pinch kosher salt
 
 ### Dry mix
-- 1¾ cups all-purpose flour  
-- ¾ tsp baking powder  
-- ½ tsp baking soda  
+- **1¾ cups + 2 Tbsp** all-purpose flour (about **1¾ cups = 210 g; +2 Tbsp ≈ 15 g; total ≈ 225–235 g**)  
+- 1 tsp baking powder  
+- ¼ tsp baking soda  
 - ½ tsp kosher salt  
 - 1 tsp ground cinnamon  
-- Pinch ground nutmeg (optional, doughnut-shop vibe)
+- Pinch ground nutmeg (optional)
 
 ### Wet mix
-- ½ cup neutral oil (avocado or canola)  
-- ¾ cup light brown sugar, packed  
-- ¼ cup granulated sugar  
-- 2 large eggs  
-- ½ cup sour cream  
+- **⅓ cup** neutral oil (≈ **70 g**)  
+- **⅔ cup** light brown sugar, packed (≈ **133 g**)  
+- **¼ cup** granulated sugar (≈ **50 g**)  
+- 2 large eggs **+ 1 large yolk**  
+- **½ cup** sour cream (≈ **120 g**)  
 - 1 tsp vanilla extract  
-- ⅓ cup of the warm cider reduction (reserve ~2½ Tbsp for the soak in Step 9)  
-- Optional: ¾ cup small-dice peeled tart apple (toss in 1 tsp flour)
+- **¼ cup** warm cider reduction (from Step 1)  
+- Optional: **1 Tbsp** pure maple syrup (mixes into wet to soften tang)
+
+---
 
 ## Instructions
-1) **Reduce the cider.** In a small saucepan, simmer 1½ cups cider over medium heat to **½ cup**, 12–18 minutes, swirling occasionally. It should smell caramelly and lightly syrupy. Set aside to cool until warm (not hot). You’ll use **⅓ cup** in the batter and **~2½ Tbsp** for a light soak.
 
-2) **Prep pan & oven.** Heat oven to **350°F**. Line an **8×8 metal pan** with a parchment sling; lightly grease.
+1) **Reduce the cider — precise targets.**  
+   - **Start:** 2½ cups cider in a light-colored saucepan, **uncovered**.  
+   - Bring to a boil (about 2 min), then drop to a **bare simmer (200–205°F)** with lazy bubbles.  
+   - **Finish:** reduce to **⅔ cup**. If using a scale, stop when pot + cider is **~170 g heavier** than the empty pot (⅔ cup ≈ 160 ml ≈ 170 g).  
+   - **Time guide by pan diameter:**  
+     - 10" (~25 cm) wide: **14–18 min**  
+     - 8" (~20 cm) saucepan: **22–26 min**  
+     - 6½" (~16–17 cm) tall pot: **28–34 min**  
+   - Cues: lightly syrupy; thinly coats a spoon; a finger line on the back of the spoon holds **1–2 seconds**. Keep warm.
 
-3) **Mix dry.** In a medium bowl, whisk flour, baking powder, baking soda, salt, cinnamon, and nutmeg.
+2) **Prep oven & pan.** Heat oven to **325°F**. Line a **light-colored aluminum** 8×8 pan with a parchment sling; lightly grease.
 
-4) **Mix wet.** In a large bowl, whisk oil, brown sugar, granulated sugar, eggs, sour cream, and vanilla until smooth. Whisk in **⅓ cup** warm reduced cider.
+3) **Mix dry.** Whisk flour, baking powder, baking soda, salt, cinnamon, and nutmeg in a medium bowl.
 
-5) **Combine.** Add dry mix to wet; fold just until no dry pockets remain. If using diced apple, fold in now.
+4) **Mix wet.** In a large bowl, whisk oil, brown sugar, granulated sugar, eggs, **yolk**, sour cream, vanilla, and **(optional) maple syrup** until smooth. Whisk in **¼ cup** warm cider reduction.
 
-6) **Bake.** Spread batter into the pan (it will be thick). Bake **28–35 minutes** until the top springs back, edges are set, and a toothpick at center comes out with a few moist crumbs (or ~**205°F** internal).
+5) **Combine.** Add dry mix to wet; fold gently until no dry pockets remain. **Rest batter 5 minutes** to hydrate (reduces tunneling and doming).
 
-7) **Make the “doughnut” sugar.** Stir **¼ cup sugar**, **1½ tsp cinnamon**, and a **pinch of salt** in a small bowl.
+6) **Pan & level.** Scrape into pan; smooth from edge to edge. Rap pan **3–4 times** on the counter to pop big bubbles.
 
-8) **Cool briefly.** Let cake cool **10 minutes** on a rack; lift out by parchment to the rack.
+7) **Bake.** Bake **35–42 minutes at 325°F** until the top springs back, edges are set, and a toothpick at center shows a few moist crumbs (**~205°F internal**). Rotate at **20 minutes** if your oven has a hot spot.
 
-9) **Soak & butter.** Poke the top all over with a skewer. Spoon **~2½ Tbsp warm reduced cider** evenly over the surface (it should absorb, not puddle). Immediately brush with **2 Tbsp melted butter**.
+8) **Make cinnamon-sugar.** Stir together **¼ cup sugar**, **1½ tsp cinnamon**, and a **pinch of salt**.
 
-10) **Cinnamon–sugar finish.** Shower the cinnamon–sugar evenly over the warm, buttered cake; use fingers to gently rub some sugar so it adheres like a doughnut crust. Cool 10 more minutes, then cut into **16 squares** and serve warm.
+9) **Cool briefly.** Set pan on a rack **10 minutes**; lift cake out by the parchment.
 
-## Instruction Table (parallel prep)
+10) **Light soak (half measure).** Poke the surface 30–40 times with a skewer (½–¾" deep). Spoon **1¼ Tbsp** warm cider reduction evenly in a grid; let absorb **60–90 seconds**. Stop if any pooling.
 
-| Step | Task | Time/Temp | Sensory cue | Notes |
+11) **Butter & finish.** Brush the warm top with **2 Tbsp melted butter**. Shower with the cinnamon-sugar and gently rub so it adheres like a doughnut crust. Cool **10 minutes**, then cut into **16 squares** and serve warm.
+
+---
+
+## Instruction Table (for parallel prep)
+
+| Step | Task | Time/Temp | Sensory Cue | Notes |
 |---|---|---:|---|---|
-| 1 | Reduce cider | 12–18 min, simmer | Volume ↓ to ½ cup; syrupy aroma | Start first; mix dry while it reduces |
-| 3 | Whisk dry | ~2 min | Evenly combined | Prevents overmixing later |
-| 4 | Whisk wet | 2–3 min | Smooth, glossy | Add warm (not hot) cider |
-| 6 | Bake | 28–35 min @ 350°F | Springs back; moist crumbs | Metal pan bakes best |
-| 9–10 | Soak, butter, sugar | 3–4 min | Sugar clings, slight sheen | Work while cake is warm |
+| 1 | Reduce cider | 14–34 min at 200–205°F | Coats spoon; **⅔ cup** target | Use time row that matches your pan width |
+| 3 | Whisk dry | ~2 min | Evenly combined | Set leavening precisely |
+| 4 | Whisk wet | 2–3 min | Smooth, glossy | Add warm (not hot) reduction |
+| 7 | Bake | 35–42 min @ **325°F** | Springs back; moist crumbs | Rotate at 20 min |
+| 10–11 | Soak → butter → sugar | 3–4 min | Sugar clings; slight sheen | **Soak only 1¼ Tbsp** total |
+
+---
 
 ## Make-Ahead, Serve & Reheat
-- **Day-ahead:** Bake, cool, leave **unsugared**. Wrap airtight at room temp. Warm at **300°F for 8–10 min**, then butter + cinnamon–sugar just before serving.  
-- **Same-day holding:** Keep loosely tented up to 6 hours; re-warm **5–7 min at 300°F** to refresh the crust, then dust a touch more sugar.  
-- **Freeze:** Unsugared squares freeze well (up to 1 month). Thaw, warm, then finish with butter + sugar.
+- **Day-ahead:** Bake, cool, leave **unsugared and unsoaked**. Wrap airtight at room temp. Warm **300°F for 8–10 min**, then do Steps **10–11** right before serving.  
+- **Same-day hold:** Loosely tent up to 6 hours; refresh **5–7 min at 300°F**, then add a touch more sugar if needed.  
+- **Freeze:** Unsugared squares freeze up to 1 month. Thaw, warm, then **soak (1¼ Tbsp total)**, butter, and sugar.
+
+---
 
 ## Troubleshooting
-- **Sugar won’t stick / falls off:** Cake too cool or not enough butter—re-warm briefly; brush a bit more butter and re-sugar.  
-- **Muted apple flavor:** Cider under-reduced—reduce fully to ½ cup next time or add **1–2 Tbsp boiled cider** to the batter.  
-- **Gummy center / sink:** Underdone or over-wet (too much added apple). Bake to moist-crumb doneness and limit diced apple to **¾ cup**.  
-- **Dry crumb:** Overbaked—aim for **~205°F** internal and pull when the center springs back.
+- **Too tangy:** Confirm you used only **¼ cup** reduction in batter and **1¼ Tbsp** for the soak. Next time, add **1 Tbsp maple syrup** to wet mix or simmer a minute less (so reduction is slightly less concentrated).  
+- **Crumb too wet/crumbly:** Verify reduction volume (**⅔ cup finish**), weigh flour if possible, and bake to moist-crumb doneness. The extra **yolk** helps bind; avoid extra soak.  
+- **Domed/uneven rise:** Ensure **325°F**, light-colored pan, correct leavening (1 tsp BP + ¼ tsp BS), rested batter 5 min, and pan rapped to release bubbles. If needed, lower to **315–320°F** and extend a few minutes.  
+- **Sugar won’t stick:** Cake too cool or too little butter—re-warm briefly, brush a bit more butter, re-sugar.
+
+---
 
 ## Notes (safety & correctness)
-- **Cider reduction can boil over**; use a small but tall saucepan and medium heat.  
-- **Boiled cider (optional)** is a shelf-stable way to intensify apple flavor; **1–2 Tbsp** can replace equal cider in the batter.  
-- The **cinnamon–sugar on a hot, butter-brushed cake** finish is what makes this read like a doughnut.
+- Keep the reduction at a **bare simmer** to avoid harsh acidity; hard boils can concentrate tartness.  
+- Weight/volume targets (**⅔ cup / ~170 g**) make the reduction repeatable across different pans and stoves.  
+- A **light-colored aluminum pan** plus the slightly lower bake temp promotes even rise and prevents over-browning before set.
