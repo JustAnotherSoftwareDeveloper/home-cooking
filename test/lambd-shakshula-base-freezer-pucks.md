@@ -67,6 +67,7 @@ Optional for serving (do not freeze in the puck)
 - Chopped mint or parsley
 
 ## Detailed Instructions
+
 ### A) Set up and mise en place
 1. Stage your freezer molds first. Put ten 1-cup silicone molds on a rimmed sheet pan that fits flat in your freezer (prevents spills when you move filled molds).
 2. Set out tools: wooden spoon or spatula, ladle, 1-cup measuring cup, and 1 to 2 shallow containers for cooling.
@@ -75,6 +76,7 @@ Optional for serving (do not freeze in the puck)
    - Mince garlic; keep it separate so it does not burn.
 
 ### B) Build the base flavor
+
 4. Heat the pot correctly. Use a wide 5 to 6 qt pot or Dutch oven. Heat avocado oil over medium-high until it shimmers.
 5. Sweat then lightly brown onion and peppers:
    - Add onion and bell peppers (and jalapeno if using).
@@ -88,6 +90,7 @@ Optional for serving (do not freeze in the puck)
    - Add minced garlic and stir 20 to 30 seconds, just until fragrant.
 
 ### C) Brown the lamb and control fat
+
 8. Add lamb and break it up immediately:
    - Add ground lamb and break into small crumbles (pea-size to marble-size).
    - Spread it out to contact the hot pan (helps browning vs steaming).
@@ -100,6 +103,7 @@ Optional for serving (do not freeze in the puck)
    - Do not remove all fat; a little keeps the sauce rich after reheating.
 
 ### D) Tomato build and "puck thickness" reduction
+
 11. Cook the tomato paste:
    - Add tomato paste and stir into lamb and vegetables.
    - Cook 60 to 90 seconds until slightly darker and no longer smells raw.
@@ -121,6 +125,7 @@ Optional for serving (do not freeze in the puck)
    - If short, do not add water; stop reducing sooner next time, or add 1 to 2 tbsp tomato paste and simmer 3 to 5 minutes to thicken.
 
 ### E) Cool, portion, and freeze
+
 16. Cool quickly and safely. Spread sauce into shallow containers so it cools faster, then refrigerate within 2 hours. [3](#ref-3)
 17. Portion precisely:
    - Once fully cool, stir to redistribute fat and solids.
@@ -150,7 +155,9 @@ USDA microwave guidance emphasizes covering, stirring/rotating, standing time, a
    - If you want it looser for mixing, add 1 to 2 tbsp water after the first microwave interval, then finish heating to 165 deg F before mixing.
 
 ## Nutrition Snapshot
+
 Estimated per 1 puck (1 cup; 1/10 of batch; excludes rice). Values vary with lamb fat percentage and canned tomato brand (especially sodium). [6](#ref-6)[7](#ref-7)
+
 - Calories: 330 kcal
 - Protein: 18 g
 - Fiber: 3 g
@@ -161,6 +168,7 @@ Estimated per 1 puck (1 cup; 1/10 of batch; excludes rice). Values vary with lam
 - Sodium: 490 mg
 
 ## Special Notes & Variations
+
 - Storage & Reheat: Refrigerate within 2 hours; keep refrigerated 3 to 4 days, or freeze. [3](#ref-3) Reheat covered, stir/rotate, stand briefly, and heat to 165 deg F. [4](#ref-4)
 - Serving ideas: Mix into rice; finish with lemon, yogurt, and herbs. Add toasted pine nuts at serve time for crunch.
 - Dietary toggles:
@@ -170,23 +178,16 @@ Estimated per 1 puck (1 cup; 1/10 of batch; excludes rice). Values vary with lam
 
 ## Sources
 
-[1]: #ref-1
-1. Souper Cubes. "Shakshuka Recipe." Accessed December 13, 2025. https://www.soupercubes.com/blogs/recipes/shakshuka-recipe.
+1. {#ref-1} Souper Cubes. "Shakshuka Recipe." Accessed December 13, 2025. https://www.soupercubes.com/blogs/recipes/shakshuka-recipe.
 
-[2]: #ref-2
-2. Eden Eats. "Lamb Shakshuka with Lemony Yogurt." Accessed December 13, 2025. https://edeneats.com/blogs/recipes/lamb-shakshuka-with-lemony-yogurt.
+2. {#ref-2} Eden Eats. "Lamb Shakshuka with Lemony Yogurt." Accessed December 13, 2025. https://edeneats.com/blogs/recipes/lamb-shakshuka-with-lemony-yogurt.
 
-[3]: #ref-3
-3. U.S. Food and Safety and Inspection Service. "Leftovers and Food Safety." U.S. Department of Agriculture. Accessed December 13, 2025. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety.
+3. {#ref-3} U.S. Food and Safety and Inspection Service. "Leftovers and Food Safety." U.S. Department of Agriculture. Accessed December 13, 2025. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety.
 
-[4]: #ref-4
-4. U.S. Food and Safety and Inspection Service. "What Methods of Reheating Food Are Safe?" AskFSIS. U.S. Department of Agriculture. Accessed December 13, 2025. https://ask.usda.gov/s/article/What-methods-of-reheating-food-are-safe.
+4. {#ref-4} U.S. Food and Safety and Inspection Service. "What Methods of Reheating Food Are Safe?" AskFSIS. U.S. Department of Agriculture. Accessed December 13, 2025. https://ask.usda.gov/s/article/What-methods-of-reheating-food-are-safe.
 
-[5]: #ref-5
-5. FoodSafety.gov. "Safe Minimum Internal Temperatures." U.S. Department of Agriculture. Accessed December 13, 2025. https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures.
+5. {#ref-5} FoodSafety.gov. "Safe Minimum Internal Temperatures." U.S. Department of Agriculture. Accessed December 13, 2025. https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures.
 
-[6]: #ref-6
-6. MyFoodData. Nutrition Database. Accessed December 13, 2025. https://tools.myfooddata.com.
+6. {#ref-6} MyFoodData. Nutrition Database. Accessed December 13, 2025. https://tools.myfooddata.com.
 
-[7]: #ref-7
-7. FatSecret. "Ground Lamb Calories and Nutrition." Accessed December 13, 2025. https://foods.fatsecret.com/calories-nutrition/usda/ground-lamb?portionamount=100.000&portionid=61374.
+7. {#ref-7} FatSecret. "Ground Lamb Calories and Nutrition." Accessed December 13, 2025. https://foods.fatsecret.com/calories-nutrition/usda/ground-lamb?portionamount=100.000&portionid=61374.
