@@ -5,23 +5,18 @@ These burrito bowls are built around a mushed black bean and green chile base pl
 
 ---
 
+## Tags
+- tags: [main, freezer-friendly, meal-prep, mexican, beef, beans, high-protein]
+
+---
+
 ## Yield & Timing
-- Yield: 8 freezer portions of steak + black bean base  
+- **Yield:** 8 freezer portions of steak + black bean base  
   - Each final meal = 1 frozen base (about 1 cup) + 1 cup cooked brown rice + 2 tbsp chipotle mayo
-- Active Prep: 45 to 60 minutes (including steak sear and veggie saute)
-- Inactive Prep:
-  - Beans: 60 to 90 minutes largely hands-off in the Instant Pot
-  - Steak marinating: 30 minutes up to 24 hours (in the fridge)
-  - Cooling before freezing: 30 to 45 minutes
-- Cook:
-  - Beans: about 30 minutes at high pressure + 20 minutes natural release [1–4]
-  - Steak and veg: 20 to 25 minutes total on the stovetop
-- Total (hands-off included): roughly 2 1/2 to 3 hours, but much of that is unattended
-- Make-ahead:
-  - Cooked black beans keep 3 to 4 days refrigerated in their cooking liquid or 2 to 3 months frozen.  
-  - Steak + black bean base blocks keep 3 to 4 days refrigerated or 2 to 3 months frozen if cooled quickly and frozen airtight. Refrigerate within 2 hours and reheat leftovers to 165 deg F before eating [6–9].  
-  - Chipotle mayo keeps up to 7 days in the fridge.  
-  - Cooked brown rice should be cooled quickly, refrigerated within 2 hours, and eaten within 3 to 4 days; do not leave cooked rice at room temperature due to Bacillus cereus risk [6–9].
+- **Active Prep:** 45 to 60 minutes (including steak sear and veggie sauté)
+- **Hands-Off/Rest:** Beans: 60 to 90 minutes (largely hands-off in the Instant Pot); Steak marinating: 30 minutes up to 24 hours (in the fridge); Cooling before freezing: 30 to 45 minutes
+- **Cook:** Beans: about 30 minutes at high pressure + 20 minutes natural release; Steak and veg: 20 to 25 minutes total on the stovetop
+- **Total:** roughly 2 1/2 to 3 hours (much of that is unattended)
 
 ---
 
@@ -61,6 +56,16 @@ These burrito bowls are built around a mushed black bean and green chile base pl
 - Garlic powder (if you prefer to season beans with powder instead of fresh garlic)
 
 ---
+
+## Equipment & Tools
+- 6–8 qt Instant Pot or pressure cooker
+- Large heavy skillet or 5–6 qt Dutch oven (for the veg–chile base)
+- Second large skillet (12" or similar) for searing steak
+- Blender or food processor (for chipotle mayo)
+- Potato masher or heavy spoon
+- Shallow pan or 8 freezer-safe containers (1-cup each) with lids
+- Food thermometer
+- Fine-mesh sieve (for rinsing beans) (optional)
 
 ## Ingredients
 
@@ -108,6 +113,13 @@ These burrito bowls are built around a mushed black bean and green chile base pl
 - 1 cup chipotle peppers in adobo sauce (peppers plus sauce), finely chopped or blended [pre-prep]
 
 ---
+
+## Prep Gotchas & QA
+- Salt the beans after cooking (add 1/2 tsp while warm) to avoid tough skins and uneven softening.
+- Cool cooked food quickly and refrigerate within 2 hours (1 hour above 90°F) before freezing.
+- Sear steak in batches; do not crowd the pan—high heat, short contact yields best browning.
+- Aim for a thick, scoopable bean texture (leave some whole beans) so frozen blocks hold shape and reheat without weeping.
+- Taste and adjust heat/salt before freezing; chipotle mayo is potent and salty—add at service.
 
 ## Detailed Instructions
 
@@ -212,6 +224,11 @@ Daily values based on FDA 2,000 kcal reference diet: Ca 1,300 mg; Mg 420 mg; P 1
 
 ---
 
+## Make-Ahead, Storage & Reheat (Optional)
+- **Fridge:** Cooked black beans keep 3 to 4 days refrigerated in their cooking liquid; steak + black bean base blocks keep 3 to 4 days refrigerated if cooled quickly and stored airtight; chipotle mayo keeps up to 7 days; cooked brown rice should be cooled quickly, refrigerated within 2 hours, and eaten within 3 to 4 days; do not leave cooked rice at room temperature due to Bacillus cereus risk [6–9].
+- **Freezer:** Base blocks keep 2 to 3 months frozen airtight; label with date and contents.
+- **Reheat:** Microwave frozen base 3 to 6 minutes covered, stirring once or twice, until **165°F** in the center; reheat rice separately or cook fresh. Refrigerate within 2 hours and reheat leftovers to 165°F before eating. Do not freeze rice or chipotle mayo with the base.
+
 ## Special Notes & Variations
 
 - **Freezing & Texture**:  
@@ -238,6 +255,29 @@ Daily values based on FDA 2,000 kcal reference diet: Ca 1,300 mg; Mg 420 mg; P 1
   - For more volume without many extra calories, add shredded lettuce or finely shredded cabbage under or over the rice.
 
 ---
+
+## Allergy & Dietary Notes
+- **Contains:** egg (mayonnaise), beef
+- **Swaps:** Vegetarian: omit steak and add extra roasted mushrooms, tempeh, or pan-fried extra-firm tofu; Egg-free: use an egg-free mayo or yogurt-based sauce.
+- **Cross-contact:** Clean surfaces and utensils after handling raw steak to avoid contamination.
+
+## Scaling & Batch Size
+- Double ingredients to make twice the number of 1-cup blocks; Instant Pot bean timing is unchanged but ensure pot capacity and room to sear multiple batches of steak.
+- Halve the recipe to make 4 portions; cooking times stay similar though searing may require fewer batches.
+
+## Troubleshooting
+| Symptom | Likely Cause | Quick Fix |
+|---|---|---|
+| Too watery | Added too much reserved bean liquid or under-reduced | Cook uncovered a few minutes to reduce; mash less liquid next batch |
+| Beans undercooked | Beans insufficiently cooked or aged dried beans | Return to pressure for 3–5 more minutes and quick-release |
+| Steak overcooked/chewy | Over-searing or too-thick cubes; steak cut was too lean or overcooked | Slice thin against the grain; use shorter sear time; rest briefly before folding in |
+| Mayo separated | Blended too long or warmed | Chill and re-emulsify with a splash of cold mayo or whisk in a little cold water gradually |
+| Too spicy | Too many seeds or too much chipotle/adobo | Stir in plain mayo or extra rice to mellow heat |
+| Too salty | Over-salted or reduced too far | Add unsalted cooked rice, a splash of acid (lime), or a spoonful plain yogurt/mayo to balance |
+
+## Safety & Correctness Notes
+- Beans are salted after cooking to help even softening and avoid tough skins—this is intentional and common for pressure-cooked dried beans.
+- Reheat all refrigerated/frozen components to at least **165°F** and cool large batches in shallow containers to refrigerate within 2 hours (1 hour above 90°F).
 
 ## Sources
 1. One Lovely Life – “Easy Instant Pot Black Beans (No Soaking Required!)” [type: blog; why: clear Instant Pot timing and texture cues for unsoaked beans].   
