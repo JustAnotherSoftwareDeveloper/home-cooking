@@ -1,180 +1,109 @@
 # Recipe Revisions Instruction Set (Home-Cook Friendly)
 
-**Purpose:** When a dish cooks wrong or tastes off, use this playbook to (1) diagnose, (2) see if others hit the same issue, (3) cross-reference similar recipes, (4) propose practical fixes, and (5) produce an **updated recipe**.
+**Purpose:** When a dish cooks wrong or tastes off, use this playbook to (1) diagnose, (2) verify whether others hit the same failure mode, (3) reconcile similar recipes, (4) propose practical, evidence-based fixes, and (5) produce an updated recipe.
 
-**Assumption:** You’ll attach a **Markdown copy of the recipe**. If you only have a short description, that’s fine—we’ll ask **minimal, answerable follow-ups** only if needed.
+**Assumption:** You will attach a Markdown copy of the recipe. If you only have a short description, proceed and ask minimal, answerable follow-ups only if needed.
+
+**Sourcing rule:** Do NOT restate or reinvent the research workflow here. Follow `meal_sources.md` for source tiers, search protocol, authenticity signals, comment mining, variant matrix structure, safety/correctness checks, and attribution format.
+
+**Constraint rule:** Revisions must remain compatible with `healthy_constraints.md` unless the user explicitly requests a deviation.
 
 ---
 
 ## 0) What You Provide (Super Short)
+Minimum:
 - **Recipe file:** attach the Markdown (preferred).
-  *If not available:* give a one-sentence description of the dish + what went wrong.
-- **What went wrong (1–2 lines):** e.g., “dry & bland,” “center undercooked,” “sauce split.”
-- **Any swaps/changes:** e.g., “used low-sodium broth,” “baked in 9×13 metal pan,” “halved recipe.”
+  - If not available: one-sentence description of the dish + what went wrong.
+- **What went wrong (1–2 lines):** e.g., "dry and bland," "center undercooked," "sauce split."
+- **Any swaps/changes:** e.g., "used low-sodium broth," "baked in 9x13 metal pan," "halved recipe."
 
-> If we truly need more info, we’ll only ask simple, kitchen-level questions (see §2.b).
+Helpful (only if easy):
+- Pan/pot size + material
+- Covered/uncovered (and when)
+- Approx thickness / layer depth
+- Whether the issue happened fresh, on reheat, or both
+
+> If we truly need more info, we only ask simple, kitchen-level questions (see 2b).
 
 ---
 
 ## 1) Classify the Problem (Pick 1–3)
-- **Doneness/Timing:** undercooked center, overcooked edges, took longer/shorter than stated.
-- **Texture/Structure:** dry/tough, watery/thin, greasy, gummy/dense, grainy, split, curdled.
-- **Flavor Balance:** too salty, flat/bland, too sour/bitter/sweet, harsh/“burnt garlic” aftertaste.
-- **Workflow/Complexity:** too many pans, fussy timing, hard to coordinate.
-- **Equipment/Scaling:** pan size/material mismatch, doubled batch, crowded pan.
-- **Allergy/Swaps:** substitute broke the texture or flavor.
+- **Doneness/Timing:** undercooked center, overcooked edges, took longer/shorter than stated
+- **Texture/Structure:** dry/tough, watery/thin, greasy, gummy/dense, grainy, split, curdled
+- **Flavor Balance:** too salty, flat/bland, too sour/bitter/sweet, harsh aftertaste
+- **Workflow/Complexity:** too many pans, fussy timing, hard to coordinate
+- **Equipment/Scaling:** pan size/material mismatch, doubled batch, crowded pan
+- **Allergy/Swaps:** substitution broke texture or flavor
 
 ---
 
 ## 2) Quick Triage (Big Levers First)
 
-### 2.a No-Ask Checks we do automatically (from your Markdown or description)
-- **Pan/vessel geometry:** stated pan size vs batch thickness.
-- **Heat & preheat:** oven temp and whether browning step exists before the bake/simmer.
-- **Covered vs uncovered:** whether reduction/evaporation was possible.
-- **Salty inputs:** salted butter, soy, cheese, broth, brined items.
-- **Crowding:** number of portions vs pan size; presence/absence of rack.
+### 2a) No-Ask Checks (from your Markdown or description)
+We check:
+- **Geometry:** vessel size vs batch thickness; rack position if oven
+- **Heat path:** preheat present; browning steps are plausible
+- **Moisture management:** whether reduction/evaporation was possible (covered vs uncovered)
+- **Salty inputs:** cheese, soy, broth, brined items, salted butter; reduction risk
+- **Crowding:** portion count vs surface area; steaming risk
+- **Sequence integrity:** acid/dairy order, emulsion steps, rest times
 
-### 2.b If needed, we’ll ask only answerable follow-ups
-- **Pan size & material?** (e.g., 12" cast-iron, 9×13 metal/glass)
-- **Oven temp you actually used?** (e.g., 400°F)
-- **Approx. thickness or layer depth?** (e.g., ~¾")
-- **Covered or uncovered?**
-- **Any substitutions?** (e.g., coconut milk for cream, low-sodium broth, gluten-free flour)
-- **Did the pan feel crowded?** (yes/no)
-- **Did it sizzle on contact?** (yes/no)
+### 2b) If needed, minimal follow-ups
+Ask the smallest set that resolves ambiguity:
+- Pan size & material?
+- Oven/stove settings actually used?
+- Approx thickness / layer depth?
+- Covered or uncovered (and when)?
+- Any substitutions?
+- Did the pan feel crowded (yes/no)?
+- Did it sizzle on contact (yes/no)?
 
-*(We will **not** ask for BTUs, exact salt %, flour protein %, oven calibration reports, or anything else a home cook can’t reasonably know.)*
-
----
-
-## 3) Check Whether Others Hit This
-Use **4–6 authenticity-focused searches** (per SOURCES_RECIPES.md). Examples (swap in your dish name):
-
-- `"<dish> dry" "what went wrong"`, `"my <dish> split"`, `"curdled"`, `"gummy"`, `"watery"`
-- `"family recipe" <dish> notes`, `"<dish> mistakes I made"`, `"troubleshooting" <dish>`
-- Helpful filters: `site:reddit.com`, `site:askculinary.com`, `site:youtube.com`
-- De-spam: `-pinterest -buzzfeed -listicle -roundup`
-
-We’ll keep anything that matches your failure mode and **pull concrete tips** (ratios, cues, times).
+Do not ask for BTUs, exact salt %, oven calibration reports, flour protein %, or anything else a home cook cannot reasonably know.
 
 ---
 
-## 4) Cross-Reference 5–7 Similar Recipes
-Mix **personal blogs, forums, video/social**, plus **one well-regarded site** as a baseline. Build a simple **variant matrix**:
+## 3) Root-Cause Hypotheses (Required)
+Before prescribing changes, state:
+- **Hypothesis A:** [one sentence cause] — **confidence:** [high|med|low]
+- **Hypothesis B (optional):** [one sentence cause] — **confidence:** [high|med|low]
 
-| Aspect            | Source A      | Source B     | Source C     | Your Recipe | Proposed Update |
-|---                |---            |---           |---           |---          |---              |
-| Pan/Thickness     | 12" skillet   | 9×13 metal   | 12" skillet  | 12" skillet | 12" skillet, ¾" |
-| Time/Temp         | 425°F 18–22m  | 400°F 22–28m | 450°F 14–18m | 425°F 25m   | 400°F 18–22m    |
-| Key Ratios        | 2 tsp salt    | 1½ tsp salt  | 2¼ tsp salt  | 1 tsp salt  | 1¾ tsp salt     |
-| Cover/Reduction   | Uncovered     | Covered ½    | Uncovered    | Covered     | Uncovered       |
-| Tools             | Rack on sheet | 9×13 glass   | Cast-iron    | Cast-iron   | Cast-iron + rack |
-
-We’ll note **why** changes help (geometry, moisture, browning, emulsion stability).
+Rules:
+- Hypotheses must be **falsifiable**: each must imply a specific cue/test that could disprove it.
+- Every proposed change must map to Hypothesis A or B.
+- If a change does not map cleanly, it does not belong in the minimal update.
 
 ---
 
-## 5) Fix Library (Symptom → Likely Cause → Action)
-
-### Doneness / Timing
-- **Raw center; burnt edges** → heat too high / layer too thick → **Lower temp 25–50°F, bake longer; reduce layer to ~¾"; middle rack.**
-- **Took much longer** → crowded pan / small surface area / cool oven → **Use larger pan or cook in batches; verify preheat; start hotter, then drop.**
-
-### Texture / Structure
-- **Dry/tough** → overcooked / too lean → **Shorten cook; add 2–4% fat by feel (extra butter/oil); rest covered; consider quick brine/marinade.**
-- **Watery/thin** → covered cook / crowding → **Finish uncovered to reduce; wider pan; short high-heat finish; small slurry if needed.**
-- **Greasy** → too much fat or broken emulsion → **Spoon off; re-emulsify off heat with a spoon of warm water; add a dab of mustard/yolk if style allows.**
-- **Gummy/dense** → overmix / hydration off → **Mix just-to-combine; add or hold back a splash of liquid; rest batter/dough.**
-- **Curdled dairy** → high heat / acid shock → **Temper; add off heat; stabilize with a little starch; don’t boil.**
-- **Split emulsion** → added fat too fast / pan too hot → **Cool pan slightly; whisk in a spoon of warm water; add fat slowly.**
-
-### Flavor Balance
-- **Too salty** → **Dilute with unsalted liquid/starch; add a little acid or fat to balance.**
-- **Flat/bland** → **Salt to taste; brighten with acid at the end; toast/bloom spices; add umami (tomato paste/miso/anchovy) if appropriate.**
-- **Too sour/bitter** → **Add fat or a pinch of sweetness; avoid burnt garlic/spices; gentle simmer to mellow.**
-- **Harsh aftertaste** → **Switch oil; shorten spice bloom; use fresh aromatics.**
-
-### Workflow / Complexity
-- **Too many pans** → **Consolidate (sheet-pan, or skillet → oven); do sauces while main rests; add clear “stop points.”**
-- **Narrow timing windows** → **Create buffer: 200°F holding oven; warm sauce in a small pot; par-cook starch.**
-
-### Equipment / Scaling
-- **Doubled batch failure** → **Use two pans; keep layer depth; rotate racks; extend reduction.**
-- **Material mismatch** → **Cast-iron for sear/browning; clad for quick response; nonstick only for delicate/low-heat.**
-
-### Allergy / Swaps (preserve technique)
-- **GF thickening** → cornstarch/tapioca slurry (don’t swap 1:1 AP in batters).
-- **Dairy-free creaminess** → cashew/coconut cream **off heat**; emulsify.
-- **Nut-free pesto** → use seeds or omit; boost umami/acid.
+## 4) Research and Corroboration (Use meal_sources.md)
+Follow `meal_sources.md` end-to-end. Revision-specific emphasis:
+- Build queries around the **failure mode** (symptom keywords) in addition to the dish name.
+- Prefer sources that explicitly discuss **mistakes, troubleshooting, corrections, ratio debates, pan geometry, and sensory cues**.
+- Treat video/social as valid when it contains replicable steps and/or high-signal Q&A; corroborate key fixes before prescribing.
+- When sources disagree, use this decision protocol:
+  1) Prefer sources addressing the **same failure mode** explicitly.
+  2) Prefer sources whose **equipment + geometry** match (pan size, thickness, covered/uncovered).
+  3) Prefer the approach that is **physics-consistent** with the symptom and the method (evaporation path, browning feasibility, emulsion stability).
 
 ---
 
-## 6) Safety & Correctness Pass (Quiet but Mandatory)
-We’ll ensure the revised steps remain **safe and sensible**:
-- Safe internal temps (when relevant) and short rest times.
-- Bean/legume guidance (soak/boil) if applicable.
-- Dairy/egg handling (temper; don’t hold long in the danger zone).
-- Use appropriate fats for high-heat searing (no low smoke-point oils).
-
-If a traditional step conflicts with safety or physics, we’ll publish the **corrected** method and say why—briefly.
+## 5) Reconcile With a Variant Matrix (Use meal_sources.md)
+Use the `meal_sources.md` variant matrix approach, but tailor rows to the failure:
+- Add rows for the most likely failure drivers (layer depth, covered/uncovered, reduction endpoint, emulsification order, salinity inputs).
+- Prefer **ratio bands** over single point numbers.
+- Record the "why" for each proposed change in one line (geometry, moisture, browning, emulsion stability).
 
 ---
 
-## 7) Draft the Minimal Update (Small Test First)
-We’ll sketch a **small-batch** adjustment (¼ or ½ batch) with just the changes needed:
-- **Time/Temp:** e.g., 425°F → 400°F; 22–28 min → 18–22 min
-- **Geometry:** e.g., 1" layer → ¾"; switch to larger pan or add rack
-- **Ratios:** e.g., +¾ tsp salt overall; +1–2 Tbsp fat
-- **Sequence:** e.g., toast spices 30–45 s; deglaze before cream
-- **Tools:** e.g., use 12" cast-iron; sheet + rack
-
-We’ll verify the original symptom is gone before rewriting fully.
+## 6) Geometry and Moisture Sanity Checklist (Required Before Final Output)
+Confirm and make explicit in your revised recipe:
+- Vessel type and size are specified (and reasonable for the batch).
+- Layer depth is stated or bounded (e.g., "no deeper than ~1 inch").
+- Covered/uncovered plan is explicit (including when the lid/foil comes off).
+- Evaporation/reduction path exists for sauces (wide enough pan; uncovered finish).
+- Crowding risk is addressed (batching or wider vessel if needed).
 
 ---
 
-## 8) Output: Updated Recipe (Drop-in Replacement)
-Using your **general recipe template**, we’ll return a complete, ready-to-cook Markdown with:
-- **Title & Overview** (what improved)
-- **Yield & Timing** (updated)
-- **Equipment & Tools** (sizes/materials clarified)
-- **Ingredients** (U.S. units; metric in parentheses only if from sources)
-- **Detailed Instructions** (cues first, clock second; optional **instruction table** if clearer)
-- **Difficulty Gotchas & QA** (how to avoid the original failure)
-- **Allergy & Dietary Notes** (reflecting any swap advice)
-- **Safety & Correctness Notes** (1–2 lines, if relevant)
-- **Sources (Attribution)** (2–4 items used for the fix)
-
-*(No versioning required; this replaces the prior draft.)*
-
----
-
-## 9) Optional: Evidence Log (YAML, for your notes)
-```yaml
-recipe: <name>
-date: <YYYY-MM-DD>
-symptoms:
-  - <short list, e.g., dry + bland>
-inputs_we_used:
-  - pan: <e.g., 12" cast-iron, uncovered>
-  - geometry: <~3/4" layer>
-  - swaps: <low-sodium broth>
-sources_consulted:
-  - title: <post/video/thread>
-    url: <link>
-    takeaway: <what fixed it>
-decisions:
-  - <lower temp, add rack, increase salt modestly, reduce uncovered>
-result:
-  - <symptom resolved?>
-notes:
-  - <anything to test next time>
-```
-
----
-
-## 10) Prompts You Can Use (Optional)
-- **Quick report:** “Here’s the Markdown (or a short description) + what went wrong.”
-- **Ask to verify common failures:** “Check if others had this issue and summarize fixes.”
-- **Ask for the rewrite:** “Give me the updated, full Markdown recipe with changes applied.”
-- **Ask for a small test:** “Propose a half-batch test plan before I commit.”
+## 7) Safety and Correctness Pass (Use meal_sources.md)
+Follow `meal_sources.md` safety and technique-correctness checks.
+- If citing food-safety facts (cooling, storage, minimu
