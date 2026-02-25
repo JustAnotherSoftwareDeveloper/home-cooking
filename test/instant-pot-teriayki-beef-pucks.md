@@ -1,225 +1,194 @@
-# Instant Pot Teriyaki Beef Pucks with Broccoli and Shredded Carrots
+# Freezer Teriyaki Shredded Beef Bowls with Brown Rice and Roasted Vegetables
 
 ## Title & Overview
+These are freezer-ready teriyaki beef bowls built for your exact workflow: portion with 1 cup cooked brown rice, freeze as complete meals, then microwave and eat. The beef is pressure-cooked until shreddable (reheat-proof), the vegetables are roasted (so they do not turn to mush), and the teriyaki sauce is made separately on the stove so it stays glossy and clingy after microwaving. It eats like a real rice bowl: saucy, savory-sweet, ginger-garlic forward, with enough vegetable volume to keep the bowl balanced.
 
-These are saucy teriyaki-style beef-and-vegetable portions designed to freeze in silicone molds, microwave quickly, and mix into freshly cooked rice. This version is optimized for speed: no pre-browning step, just pressure-cook followed by a quick vegetable finish and sauce thickening. The sauce is intentionally classic and glossy (sweeter and clingier than a "healthy" teriyaki), and the vegetables are cooked lightly so they reheat well. The end result is a cohesive, rice-friendly topping that stays saucy after freezing.
+## Tags
+tags: [main, meal-prep, freezer-friendly, instant-pot, rice-cooker, japanese-inspired, beef]
 
 ## Yield & Timing
-
-* Yield: 10 pucks, 1 cup each (10 servings with fresh rice)
-* Active Prep: 15 to 25 minutes
-* Inactive Prep: 15 to 25 minutes (come to pressure + release)
-* Cook: 12 to 15 minutes (pressure) + 6 to 10 minutes (finish)
-* Total: 50 to 75 minutes
-* Make-ahead: Fridge 3 to 4 days. Freezer 2 to 3 months (best quality). Reheat covered in the microwave until steaming hot throughout; stir once mid-way; rest 1 minute; loosen with 1 to 2 Tbsp water if needed.
+- **Yield:** 10 bowls (each: 1 cup cooked brown rice + about 1 cup beef/veg + sauce)
+- **Active Prep:** 35 to 55 minutes
+- **Inactive Prep / Hands-Off / Rest:** 25 to 35 minutes (come to pressure + natural release)
+- **Cook:** 75 to 105 minutes (pressure + roast + sauce reduction)
+- **Total:** 1 hr 45 min to 2 hr 30 min
+- **Make-ahead:** Bowls hold 3 to 5 days refrigerated; freeze the remainder promptly for best quality. Reheat covered in the microwave and heat until steaming hot; a 165°F endpoint is a standard target for mixed leftovers.
 
 ## Grocery List
 
 ### Produce
-
-* Yellow onions
-* Broccoli
-* Carrots (or bagged shredded carrots)
-* Fresh ginger
-* Garlic
+- broccoli (2 large heads)
+- carrots (4 medium)
+- red bell peppers (2 large)
+- yellow onion (1 large, optional but recommended)
+- garlic (1 head)
+- fresh ginger (1 large thumb)
+- scallions (optional garnish)
 
 ### Pantry
-
-* Water
-* Soy sauce
-* Mirin
-* Sake (or dry sherry)
-* Brown sugar
-* Honey
-* Cornstarch
-* Rice vinegar (optional)
-
-### Dairy & Eggs
-
-* None
+- brown rice (dry)
+- low-sodium soy sauce
+- mirin
+- sake (or water for alcohol-free)
+- brown sugar
+- cornstarch (optional, for extra cling)
 
 ### Proteins
-
-* Beef roast (top round roast or sirloin tip roast)
+- beef chuck roast, boneless (about 4 lb)
 
 ### Spices & Oils
+- avocado oil
+- toasted sesame oil
+- toasted sesame seeds
+- kosher salt
+- black pepper
+- red pepper flakes (optional)
 
-* Avocado oil (optional)
-* Toasted sesame oil (optional)
-* Black pepper
+## Equipment & Tools
+- 6-qt electric pressure cooker
+- rice cooker
+- 2 to 3 qt saucepan (for teriyaki sauce)
+- rimmed sheet pan 13x18 (use 2 if you hate steamed vegetables)
+- large mixing bowl
+- fine-mesh strainer (helpful for beef liquid)
+- fat separator or ladle (helpful)
+- 10 microwave-safe meal-prep containers (24 to 32 oz) or 2-cup silicone molds + freezer bags
 
 ## Ingredients
+- beef chuck roast, boneless, 4 lb, cut into 2-inch chunks
+- kosher salt, 3 tsp (15 g), divided
+- black pepper, 2 tsp, divided
+- water or unsalted beef broth, 1 1/2 cups
+- garlic, 3 cloves, smashed (for pressure cooking)
+- fresh ginger, 1-inch knob, sliced (for pressure cooking)
 
-* Beef roast (top round roast or sirloin tip roast), 3 1/2 lb, cut into `1/2-in` thick strips across the grain, then into 2 to 3 in lengths
-* Yellow onions, 2 medium, thinly sliced
-* Garlic, 6 cloves, minced
-* Fresh ginger, 1 1/2 Tbsp, finely grated
-* Water, 1 1/4 cups
-* Soy sauce, 2/3 cup
-* Mirin, 2/3 cup
-* Sake (or dry sherry), 1/3 cup
-* Brown sugar, 1/2 cup
-* Honey, 3 Tbsp
-* Avocado oil, 1 Tbsp (optional)
-* Broccoli florets (include some thin-sliced stems), 1 1/2 lb, bite-size
-* Shredded carrots, 12 oz (about 4 cups loosely packed)
-* Cornstarch, 4 Tbsp
-* Cold water, 4 Tbsp (for slurry)
-* Rice vinegar, 1 to 2 tsp (optional finish)
-* Toasted sesame oil, 1 tsp (optional finish)
-* Black pepper, to taste
+- brown rice (dry), enough to yield 10 cups cooked (see Step 1 for rice-cooker cup mapping)
+- water, per your rice cooker brown rice line
 
-## Detailed Instructions
+- broccoli florets, 8 cups
+- carrots, 4 medium, sliced 1/4-in thick
+- red bell peppers, 2 large, sliced
+- yellow onion, 1 large, thick wedges (optional)
+- avocado oil, 2 Tbsp
+- kosher salt, 1 tsp (5 g)
+- black pepper, 1 tsp
 
-A) Read Once (Plan) - 8 to 12 bullets total
+### Teriyaki Sauce (Stovetop)
+- low-sodium soy sauce, 1 cup
+- mirin, 1 cup
+- sake, 1 cup (or water)
+- brown sugar, 1/2 cup (packed)
+- garlic, 3 cloves, finely grated or minced
+- fresh ginger, 1 Tbsp, finely grated
+- toasted sesame oil, 2 tsp (finish)
+- toasted sesame seeds, 2 Tbsp (finish)
+- cornstarch, 2 Tbsp (optional)
+- cold water, 2 Tbsp (optional, for slurry)
+- red pepper flakes, 1/2 to 1 tsp (optional)
 
-* What you are making: Saucy teriyaki beef with onions, broccoli, and shredded carrots, frozen into 1-cup pucks for microwave reheat and serving over rice.
-* Endpoint in plain terms: Beef is tender, vegetables are just-tender, and the sauce is glossy and thick enough to cling to beef and coat rice.
-* Key checkpoints (3 to 6 bullets):
+## Allergy & Dietary Notes
+- **Contains:** soy, sesame, alcohol (if using sake; mirin typically contains alcohol)
+- **Easy swaps (keep technique intact):**
+  - Soy sauce -> tamari -> same reduction endpoint; similar flavor and cling.
+  - Sake -> water -> slightly less aromatic; reduce to the same glossy, spoon-coating endpoint.
+- **Hard swaps (not recommended / major change):**
+  - Removing sugar entirely -> teriyaki loses gloss/cling; if you must, reduce longer and strongly consider the optional slurry to keep it from turning watery in the bowl.
 
-  * Sugar goes in without heavy reduction; thickness comes from slurry at the end.
-  * Broccoli cooks briefly and stays bright green (it will soften more after freezing).
-  * Shredded carrots go in last and only need a short simmer.
-  * Sauce is "pourable but clingy" (not watery, not paste-thick).
-* Workflow overview (3 to 6 bullets):
+## Quick Overview
+- **What you are making:** Shredded teriyaki beef bowls with roasted vegetables and brown rice, portioned and frozen as complete microwave meals.
+- **Texture and doneness cues:** Beef should shred with minimal resistance; sauce should be glossy and lightly spoon-coating so it clings after reheating.
+- **Workflow:** Pressure-cook beef; while it cooks, run rice cooker, roast vegetables, and simmer the teriyaki sauce.
+- **Reheat plan:** Microwave covered until steaming hot; stir once if you want more even heat; add 1 to 2 Tbsp reserved sauce if a bowl eats dry.
+- **Primary risks:** Beef not tender enough (needs more pressure time) and sauce reduced too far (gets salty) or not reduced enough (goes watery).
 
-  * Load pot with beef, onions, aromatics, and teriyaki liquid; **Pressure Cook**.
-  * Switch to **Saute**; cook broccoli briefly, then carrots.
-  * Add slurry to thicken; taste-adjust and portion.
-  * *While the pot comes to pressure, cut broccoli and whisk the slurry.*
-* Make-ahead stop(s): Stop after thickening (Step 4); cool quickly, then portion into 1-cup molds; freeze solid and bag airtight.
-* Reheat plan: Microwave covered, stir mid-way, then rest 1 minute; add a splash of water if the sauce feels tight; mix into fresh rice.
-* Seasoning plan: Sweet-salty balance is set by the sauce; at the end, balance with optional vinegar, then adjust salt only if truly needed.
-* Biggest risks (1 to 3 bullets):
+## Instructions
 
-  * Sauce too intense (salty-sweet) if over-reduced on **Saute**.
-  * Broccoli overcooked before freezing (it will turn soft on reheat).
-  * Beef chewy if cut too thick or released too quickly.
+### 1) Rice cooker brown rice (yield mapping)
+- Cook brown rice using your rice cooker "brown rice" program.
+  - **Planning mapping:** 1 rice-cooker cup (180 ml) dry brown rice typically yields about **2 1/4 to 2 1/2 US cups cooked** (varies by rice and water line).
+  - **Target:** ~10 US cups cooked (10 bowls at 1 cup each).
+  - **Checkpoint:** You have ~10 cups cooked rice.
+  - If you’re short, cook 1 more rice-cooker cup; you should gain ~2+ cups cooked.
 
-B) Cook Now (Steps)
+### 2) Pressure-cook the beef (shred-proof base)
+- Season and pressure cook the beef until shreddable.
+  - Toss beef with **2 tsp (10 g) kosher salt** and **1 tsp black pepper**.
+  - Add **water/broth**, smashed garlic, and sliced ginger to the cooker; add beef in an even layer.
+  - Cook on **High pressure** **55 to 70 minutes**, then **Natural Release** **15 minutes**.
+  - **Checkpoint:** Beef pulls apart easily with forks and does not feel springy.
+  - If beef is tough: pressure cook **10 to 15 minutes more**.
 
-1. Stage and prep (no pre-browning)
+### 3) Roast the vegetables (keep structure after freezing)
+- Roast vegetables hot and fast.
+  - Heat oven to **425°F**.
+  - Toss broccoli, carrots, peppers, and onion (if using) with avocado oil, **1 tsp (5 g) kosher salt**, and **1 tsp black pepper**.
+  - Roast **18 to 24 minutes**, tossing once halfway, until edges are browned and carrots are tender-crisp.
+  - **Checkpoint:** Vegetables have browned edges and are not floppy.
 
-   * Slice the roast and set up fast-cooking vegetables.
+### 4) Make the stovetop teriyaki sauce (separate, controllable, clingy)
+- Simmer and reduce to a glossy glaze.
+  - In a saucepan, combine soy sauce, mirin, sake (or water), brown sugar, grated garlic, grated ginger, and optional red pepper flakes.
+  - Simmer on **medium heat** **8 to 14 minutes**, stirring occasionally, until glossy and lightly spoon-coating.
+  - Optional cling boost (recommended for freezer bowls):
+    - Whisk cornstarch with cold water.
+    - Whisk slurry into the simmering sauce; cook **30 to 60 seconds** until it tightens.
+  - **Checkpoint:** Sauce lightly coats a spoon and does not run like broth.
+  - If sauce tastes too salty/harsh: add a small splash of water; simmer **1 to 2 minutes** and re-check.
 
-     * Beef slicing: chill the roast in the freezer 15 to 20 minutes so it firms up, then slice across the grain into `1/2-in` strips.
+### 5) Shred beef, combine with sauce, and assemble bowls
+- Shred beef and portion sauce deliberately so every bowl stays saucy.
+  - Remove beef to a tray; shred with forks.
+  - (Optional) Strain and defat the beef cooking liquid; use only a small splash to loosen sauce if needed.
+  - **Reserve sauce:** hold back **1/2 to 1 cup** finished sauce for portioning on top.
+  - Toss shredded beef with enough sauce to coat generously; fold in roasted vegetables.
+  - Portion each bowl:
+    - **1 cup cooked rice**
+    - ~**1 cup beef/veg**
+    - drizzle **1 to 2 Tbsp reserved sauce** on top
+  - **Checkpoint:** Bowls look visibly sauced, with sauce sitting on top (not fully absorbed into rice).
 
-       * Cut those strips into 2 to 3 in lengths so they portion neatly into pucks.
-     * Broccoli: cut florets bite-size; slice stems thin so they reheat tender.
-     * Carrots: use bagged shredded carrots, or shred on the large holes of a box grater.
-     * Slurry: whisk cornstarch + cold water until smooth.
-     * **Checkpoint:** You are ready to proceed when the slurry is lump-free and the broccoli is fully prepped.
+### 6) Taste-adjust loop + cool + freeze
+- Make one "test bowl" warm and taste before you lock in 10 bowls.
+  - Sweetness -> salt -> heat -> sesame.
+  - If more sweetness: add 1 to 2 tsp sugar to the sauce; simmer briefly.
+  - If more aroma: add a little extra ginger/garlic to sauce; simmer 1 minute.
+  - If more sesame: add a few drops of toasted sesame oil (go light).
+- Cooling:
+  - Cool bowls uncovered **15 to 25 minutes**, then lid and refrigerate until fully cold before freezing.
+  - Freeze once thoroughly chilled.
 
-2. Load the pot and **Pressure Cook**
+## Common Issues
+- **Bowl eats dry after microwaving:** Not enough reserved sauce per bowl -> add 1 to 2 Tbsp sauce after reheating.
+- **Sauce turns watery in the bowl:** Sauce not reduced enough -> reduce longer next time or use slurry; stir and stand 1 to 2 minutes after heating.
+- **Vegetables turn soft:** Over-roasted or crowded pan -> roast in a thinner layer or use two pans.
 
-   * Build the cooking liquid first, then add sugar last to reduce burn risk.
+## Make-Ahead Notes
+- **Fridge:** bowls hold 3 to 5 days; freeze the rest promptly.
+- **Freezer:** best quality within ~2 months (rice texture gradually declines).
+- **Reheat:** microwave covered until steaming hot; stir once mid-way if needed; stand 1 to 2 minutes.
 
-     * Add to the Instant Pot: water, soy sauce, mirin, sake, garlic, ginger, and (optional) avocado oil.
+## Reheat Plan
+- Microwave from frozen, **covered**, in 2 to 3 rounds:
+  - heat until mostly hot -> stir once -> finish heating -> stand 1 to 2 minutes
+- If rice looks dry: add 1 Tbsp water before the final round.
+- If under-sauced: add 1 to 2 Tbsp reserved sauce after heating.
 
-       * Stir briefly to combine.
-     * Add onions, then beef; press beef down so it is mostly in the liquid.
-     * Sprinkle brown sugar evenly over the top and drizzle honey over the top.
-
-       * *Do not aggressively stir once sugar is added; a gentle fold is fine, but keep the bottom mostly liquid.*
-     * **Pressure Cook** on **High Pressure** for 12 to 14 minutes, then **Rest** (natural release) 10 to 12 minutes, then release remaining pressure.
-     * **Checkpoint:** You are ready to proceed when the beef bends easily with tongs and the onions look fully softened.
-     * *If you get a burn warning, then **Cancel**, vent, open, and add 1/2 cup water; scrape the bottom gently until smooth; then restart; cue its fixed: no stuck sugar remains on the bottom.*
-     * *If beef is still chewy, then **Pressure Cook** 2 to 4 minutes more and **Rest** 10 minutes; cue its fixed: pieces bite through without tugging.*
-
-3. Cook vegetables briefly in the sauce
-
-   * Use **Saute** just long enough to set texture (do not reduce hard yet).
-
-     * Set pot to **Saute** on **medium heat**.
-     * Add broccoli and simmer 2 to 4 minutes, stirring, until **bright green and just-tender**.
-
-       * Add shredded carrots and simmer 30 to 90 seconds, until they soften slightly.
-     * **Checkpoint:** You are ready to proceed when broccoli is tender-crisp and carrots have warmed through.
-     * *If broccoli is turning olive and very soft, then stop the heat immediately and move to thickening; cue its fixed: it stays green once chilled and reheated.*
-
-4. Finish and taste-adjust (required final step)
-
-   * Thicken to a glossy, freezer-friendly sauce and balance flavor.
-
-     * Keep pot on **medium heat** and stir the slurry again.
-     * Drizzle in about half the slurry while stirring constantly, 30 to 60 seconds, until the sauce turns glossy.
-
-       * Add the rest gradually only if needed; aim for "clingy but still saucy" (it should coat beef and lightly pool).
-     * Taste-adjust loop (required): acid -> salt -> heat -> herbs.
-
-       * Acid: *optional* rice vinegar 1 tsp, then taste; add up to 1 tsp more if it tastes overly sweet/salty.
-       * Salt: only add more soy if it truly tastes flat (many batches will not need it).
-       * Heat: black pepper to taste.
-       * Herbs: none.
-     * *Optional* finish: toasted sesame oil for aroma (keep it modest so it does not feel greasy after reheating).
-     * **Checkpoint:** Final dish is glossy, saucy, and vegetables are slightly under your ideal tenderness (they will soften after freezing and reheating).
-
-* Make-Ahead Map:
-
-  * Fridge plan:
-
-    * Stop after Step 4: cool quickly (spread in a shallow container), then cover.
-    * Holds: 3 to 4 days
-    * Reheat: microwave covered until steaming hot throughout; stir once; rest 1 minute; loosen with a splash of water if needed.
-  * Freezer plan:
-
-    * Best freeze point: Step 4 (fully cooked and thickened)
-    * Portioning: fill silicone mold wells to 1 cup each, making sure each puck gets a good share of sauce (not just solids).
-
-      * Freeze solid, then pop out and bag airtight with as much air removed as practical.
-    * Freeze: 2 to 3 months
-    * Thaw: overnight in the fridge (best), or reheat from frozen
-    * Reheat: microwave covered; stir mid-way; continue until steaming hot throughout; rest 1 minute; add 1 to 2 Tbsp water if sauce is tight, then mix into fresh rice.
-
-* Error-proofing (required; 2 to 4 bullets total)
-
-  * Sauce tastes too salty-sweet -> Reduced too hard on **Saute** or strong soy -> Add water 2 Tbsp at a time and balance with 1 to 2 tsp vinegar -> Recovery cue: tastes rounded once mixed into rice.
-  * Beef is chewy -> Slices too thick or release too short -> **Pressure Cook** 2 to 4 minutes more with a 10-minute **Rest** -> Recovery cue: pieces bend and bite cleanly.
-  * Sauce is too thin after reheating -> Starch loosened in freeze/microwave -> Stir hard and microwave 30 to 60 seconds more -> Recovery cue: sauce clings again instead of pooling.
-  * Sauce turns gummy -> Too much slurry -> Add water 2 Tbsp at a time and stir on **medium heat** 30 to 60 seconds -> Recovery cue: glossy and pourable again.
-
-* Geometry notes (include when relevant)
-
-  * Pan/pot size used: 6-qt Instant Pot
-  * Target thickness / layer depth: keep beef mostly submerged in liquid for even tenderness
-  * Crowding rule: do not exceed the max fill line; if very full, use the longer end of the natural release window for tenderness.
+## Troubleshooting Table
+| Symptom | Likely Cause | Quick Fix |
+|---|---|---|
+| Too salty | Reduced too far | Add a splash of water; simmer briefly |
+| Too watery | Insufficient reduction | Reduce longer; optional slurry |
+| Beef tough | Under-tender | Add 10 to 15 minutes pressure time |
 
 ## Nutrition Snapshot (per serving)
-
-* Protein-forward beef plus two vegetables; rice (served separately) controls how "heavy" the bowl feels.
-* Sauce is classic teriyaki-style (meaning higher added sugar and sodium than a "healthy" version); mixing into plain rice materially dilutes intensity.
-* Vegetable fiber and volume help balance the richness and sweetness of the sauce.
-* Reliable numeric estimate not available because nutrition values were not calculated for this draft.
-
-## Special Notes & Variations
-
-* Storage & Reheat: Freeze pucks flat in a single layer until solid, then bag. For best texture, reheat covered, stir mid-way, and rest 1 minute so heat equalizes before mixing into rice.
-* Serving ideas: Fresh rice (white rice is ideal for soaking up sauce). Optional toasted sesame seeds. Optional quick cucumber slices on the side for contrast.
-* Sodium:
-
-  * Top drivers: soy sauce, any extra soy added at the end, and any aggressive reduction on **Saute**.
-  * Levers:
-
-    * Use low-sodium soy without changing volume.
-    * Thicken with slurry instead of boiling hard to concentrate.
-    * Use vinegar to brighten instead of adding more soy.
-    * Add 1 to 2 Tbsp water per puck during reheating so the sauce distributes through the rice instead of concentrating on the beef.
-* Dietary toggles:
-
-  * Gluten-free: use gluten-free tamari.
-  * Lower-sugar (still teriyaki-ish): reduce brown sugar to 1/3 cup and honey to 2 Tbsp; keep vinegar finish to maintain balance.
-  * More vegetables: increase shredded carrots to 16 oz; add them in two additions (half before slurry, half after thickening) so they do not disappear into the sauce.
-
-## Sources
-
-1. Allrecipes - Instant Pot Teriyaki Beef
-https://www.allrecipes.com/recipe/278717/instant-pot-teriyaki-beef/
-
-2. Just One Cookbook - Beef Teriyaki (teriyaki sauce notes; optional starch slurry)
-https://www.justonecookbook.com/beef-teriyaki/
-
-3. FDA - Safe Food Handling (microwave: cover/stir/rotate; standing time)
-https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling
-
-4. Michigan State University Extension - Microwaves and safe food (reheat to 165 F; standing time)
-https://www.canr.msu.edu/news/microwaves_and_safe_food
+- calories: NA
+- protein g: NA
+- fiber g: NA
+- fat g (sat g): NA
+- sodium mg: NA
+- added sugar g: NA
+- potassium mg: NA
+- magnesium mg: NA
+- calcium mg: NA
+- iron mg: NA
+- zinc mg: NA
