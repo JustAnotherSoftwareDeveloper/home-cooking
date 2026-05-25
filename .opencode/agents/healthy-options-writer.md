@@ -32,7 +32,7 @@ Produce a complete, properly structured options list that passes the audit Pass 
    - Shortlist: 5-8 entries.
    - Runner-Ups: 5-10 entries.
    - Each shortlist entry: header, tags (3-5), format, active time, effort level; Description (4 sub-points); Flavor profile; Make-ahead; Hold/Reheat; Watch (from comment-mined failure modes, not generic filler); Why it fits; Source.
-   - Why it fits must reference at least one active health constraint or override (e.g. no meaningful garlic/onion, high-fiber, freezer-ready) and any occasion directives present.
+   - Why it fits must reference at least one active health constraint or override (e.g. no meaningful onion, high-fiber, freezer-ready) and any occasion directives present.
    - Pick First / If You Want section.
 7. Verify no hard avoids appear in any option, including Variations candidates.
 8. Apply the pre-output checklist from `recipe-craft` skill before finalizing.

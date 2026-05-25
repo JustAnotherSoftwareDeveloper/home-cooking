@@ -14,7 +14,7 @@ Load this skill at the start of every healthy-chef session. After loading, read 
 
 ## Backing files
 
-- `excludes.md` — constraint defaults: hard avoids, soft blockers, health orientation rules, ancestry-risk layer, macro defaults, sodium targets, fat management, aromatic replacements.
+- `excludes.md` — constraint defaults: hard avoids, soft blockers, health orientation rules, ancestry-risk layer, macro defaults, sodium targets, fat management, aromatic handling.
 - `nutrition-calc.md` — source hierarchy (Tiers 1-6), daily values reference, per-field workflow, Added sugars derivation (Roles A-D), no-hard-stop rule, sub-recipe handling.
 
 Read both before drafting any options list or recipe for healthy-chef.
@@ -36,7 +36,6 @@ Before applying defaults, scan the conversation for any user override or excepti
 
 ### Step 2: Apply hard avoids (no exceptions without explicit user request)
 - Chocolate
-- Meaningful garlic
 - Meaningful onion
 - Meaningful mushroom
 - Fava / broad beans (conditional hard stop; see `excludes.md §2l`)
@@ -49,6 +48,7 @@ Trace-only exception policy: a hard-avoid ingredient may appear at trace level o
 Treat as down-ranked / avoided unless user requests otherwise:
 - Lactose-heavy dairy (milk, half-and-half, cream-heavy bases, evaporated milk, condensed milk, large amounts of fresh soft cheese)
 - Gluten grains (wheat, barley, rye, spelt, farro, bulgur, couscous, malt, wheat-based soy sauce)
+- Bran-heavy / rough whole-grain builds (brown rice, wheat bran, wheat berries, farro, bulgur, barley, bran cereals, very coarse whole-grain formats); apply §9
 - Extreme chile heat beyond warm/medium baseline
 
 Preferred path: use lower-lactose dairy (yogurt, aged cheese, lactose-free products) and non-gluten starches (rice, potatoes, cornmeal, legumes) when the dish supports them.
@@ -62,19 +62,21 @@ Preferred path: use lower-lactose dairy (yogurt, aged cheese, lactose-free produ
 
 ### Step 5: Apply macro and sodium defaults
 - Protein-forward relative to carbs.
-- Fiber via legumes, vegetables, optional whole grains.
+- Fiber-appropriate via legumes, vegetables, optional whole grains when tolerated; apply §9 for fiber type, bran-heavy grains, and high-residue stacking.
 - Added sugar minimal; avoid sugar-forward sauces as primary driver.
 - Sodium-aware: technique first; identify top 3 sodium drivers; provide 2-4 sodium levers in recipe output. See `excludes.md §4c` for level definitions and required behavior.
 - Fat managed: prefer mono/polyunsaturated fats; 1-3 major fat sources with distinct purposes; no oil slicks or heavy-cream bases.
 - Avocado oil is the default cooking oil.
 
-### Step 6: Apply aromatic replacement bias
-When garlic and onion are excluded, recover flavor with: ginger, celery or fennel (when structurally appropriate), citrus zest, herbs, toasted spices, tomato paste, browned meat or veg fond.
+### Step 6: Apply aromatic handling
+Garlic is tolerated and usable as a normal aromatic — do not exclude it by default. Onion is excluded by default.
+
+When onion is absent, recover flavor with: ginger, celery or fennel (when structurally appropriate), citrus zest, herbs, toasted spices, tomato paste, browned meat or veg fond.
 
 Scallion greens and chives are conditional-only: use them only when the current session explicitly confirms tolerance.
 
 ### Step 7: Pre-output constraint QA
-Run the QA checklist in `excludes.md §5` before finalizing any deliverable. Do not emit until all checklist items pass or deviations are explicitly acknowledged.
+Run the QA checklist in `excludes.md §10` before finalizing any deliverable. Do not emit until all checklist items pass or deviations are explicitly acknowledged.
 
 ---
 

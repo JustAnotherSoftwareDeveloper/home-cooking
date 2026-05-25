@@ -241,8 +241,7 @@ current=0
 failed=0
 success=0
 
-find "$INPUT_DIR" -type f -name '*.md' -print0 \
-| while IFS= read -r -d '' f; do
+while IFS= read -r -d '' f; do
   current=$((current + 1))
   if [[ -n "$OUTPUT_DIR" ]]; then
     # Build output path preserving relative structure under OUTPUT_DIR
@@ -274,7 +273,7 @@ find "$INPUT_DIR" -type f -name '*.md' -print0 \
     [[ "$VERBOSE" == "true" ]] && echo "  Check that pandoc, $ENGINE, and font '$FONT' are installed"
   fi
   echo
-done
+done < <(find "$INPUT_DIR" -type f -name '*.md' -print0)
 
 echo "==================== SUMMARY ===================="
 echo "Total files: $total_files"

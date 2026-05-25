@@ -11,7 +11,7 @@ A curated personal cookbook with standardized recipes, naming/tagging convention
 	- other notes on sourcing, healthy options, etc.
 - `tags.md` — shared tag taxonomy (course, cuisine, method, time/effort, ingredients, etc.).
 - `scripts/markdown_to_pdf.sh` — Pandoc + LaTeX converter for Markdown → PDF.
-- `Makefile` — convenience targets to render PDFs from `src/` and `test/`.
+- `Makefile` — convenience targets to render PDFs from `src/`, `test/`, `runbooks/`, and `events/`.
 - `.gitignore` — ignores `output/` and `logs/`.
 
 ## Conventions
@@ -36,11 +36,15 @@ Requirements (Linux/macOS):
 Script usage:
 - `scripts/markdown_to_pdf.sh --input-dir src --output-dir output`
 - `scripts/markdown_to_pdf.sh --input-dir test --output-dir output`
+- `scripts/markdown_to_pdf.sh --input-dir events/2025-05-26 --output-dir output/events/2025-05-26`
 
 Makefile shortcuts:
-- `make` or `make all` — build PDFs for both `src/` and `test/` into `output/`
+- `make` or `make all` — build PDFs for `src/`, `test/`, `runbooks/`, and `events/` into `output/`
 - `make src` — build PDFs from `src/` into `output/`
 - `make test` — build PDFs from `test/` into `output/`
+- `make runbooks` — build PDFs from `runbooks/` into `output/`
+- `make events` — build PDFs from `events/` into `output/events/`
+- `make events SUBDIR=2025-05-26` — build PDFs from one event into `output/events/2025-05-26/`
 - `make clean` — remove `output/`
 
 The converter runs a startup check and prints clear install hints if dependencies are missing.
@@ -49,4 +53,3 @@ The converter runs a startup check and prints clear install hints if dependencie
 - Keep recipes concise but test‑backed. Use sensory cues (look/feel/sound) in steps.
 - Prefer sources with reliable timing/ratios; cite them in the Sources section.
 - If you need new tags, add them thoughtfully to `tags.md`.
-

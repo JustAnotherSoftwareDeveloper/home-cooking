@@ -4,12 +4,15 @@
 - `src/` contains finalized recipe markdown.
 - `test/` contains draft/WIP recipes; despite the name, it is not an automated test suite. `make test` renders PDFs for this folder.
 - `runbooks/` contains multi-dish/session plans rendered with the same PDF pipeline.
+- `events/` contains event-specific recipe sets that render under `output/events/`.
 - `to_convert_successful/` and `to_convert_to_try/` are PDF backlog/reference directories and are not part of the Makefile targets.
 
 ## Commands
-- `make` or `make all` renders `src/`, `test/`, and `runbooks/` into `output/`.
-- `make src`, `make test`, and `make runbooks` render a single top-level content directory.
-- `bash scripts/markdown_to_pdf.sh --input-dir <src|test|runbooks> --output-dir output` is the direct wrapper the Makefile uses.
+- `make` or `make all` renders `src/`, `test/`, `runbooks/`, and `events/` into `output/`.
+- `make src`, `make test`, `make runbooks`, and `make events` render a single top-level content directory.
+- `make events SUBDIR=<folder>` renders one event folder to `output/events/<folder>/`.
+- `bash scripts/markdown_to_pdf.sh --input-dir <src|test|runbooks> --output-dir output` is the direct wrapper most Makefile targets use.
+- `bash scripts/markdown_to_pdf.sh --input-dir events[/<folder>] --output-dir output/events[/<folder>]` is the direct wrapper the events target uses.
 - `make clean` removes only `output/`.
 - There is no CI, lint, formatter, or typecheck config in this repo; verification is usually a render of the directory you changed.
 
